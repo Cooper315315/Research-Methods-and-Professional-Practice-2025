@@ -31,6 +31,21 @@ Last but not least, regarding the actual cyber attack case from Norsk Hydro, the
 
 
 ## **2.	Research Proposal Presentation**
+The presentation is generally well structured and the same logical progression from the Literature Review was also presented clearly in the presentation, with the additional section of Key Literature and Methodology and Research Design and more, in order to guide the audience how the research is planned and executed accordingly. 
+
+The important statistics analysis from Section 2: Significance to the Research Problem and Section 4: Key Literature, effectively grabs the audience’s attention and also allow the audience get a comprehensive understanding and the urgency of the ransomware threats.
+
+In Section 5: Methodology and Research Design, this section managed to describe how each research method (qualitative and quantitative) was going to deploy and what kind of data is going to collect. For example, Qualitative research method collects textual data such as cyber security effectiveness and gaps in existing cyber security practices and policies; whereas quantitative research method collects statistical data including ransom payments, legal fees, operational disruptions, system recovery from historical data. 
+
+This part is very crucial to the presentation of the research project because it allows the audience to review the applicability of each research method through the tangible interviews, surveys as well as the data analysis processes that are going to take place.
+
+However, there are also shortcomings in the research proposal presentation.
+
+Firstly, in section 4, it presented some crucial statistics data and findings from a single source only, which is a statistical report published in 2022 by Hong Kong Legislative Council. The quality of the research will benefit a lot by including a more diverse types of references such as from academic journals and case studies, this can undoubtedly strengthen the theoretical foundations as well as identify more research gaps in the industry. 
+
+Furthermore, in section 5, it did not mention key aspects of the research such as sample size, sampling strategy, participants selections criteria, survey question design and interview protocols. These items are also crucial elements from the research perspective as it will impact the validity and reliability of the qualitative and quantitative findings of the research. 
+
+In addition, regarding the Financial Analysis from the Quantitative research section, it did not mention the analytical techniques that will be deployed, such as regression analysis, correlation coefficients or even the datasets that will be using. Items like these would enhance reproducibility for future research and analysis.
 
 
 
