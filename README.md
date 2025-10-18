@@ -58,3 +58,9 @@ Academically, the research project enhances my knowledge in planning and executi
 
 Professionally, as a data analyst in Hong Kong, it also motivates me to enhance my technical knowledge on data related subject such as data collection, data cleaning as well as choosing the right data analysis methodology in research.
 
+## **4.	Conclusion**
+
+
+
+
+
