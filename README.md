@@ -52,7 +52,9 @@ Furthermore, in section 5, it did not mention key aspects of the research such a
 
 In addition, regarding the Financial Analysis from the Quantitative research section, it did not mention the analytical techniques that will be deployed, such as regression analysis, correlation coefficients or even the datasets that will be using. Items like these would enhance reproducibility for future research and analysis.
 
-
-
-
 ## **3.	Reflection**
+
+Academically, the research project enhances my knowledge in planning and executing research in a more sophisticated and professional manner. It opens a door for me to explore further on research method, research design as well as how to apply them in the future. 
+
+Professionally, as a data analyst in Hong Kong, it also motivates me to enhance my technical knowledge on data related subject such as data collection, data cleaning as well as choosing the right data analysis methodology in research.
+
