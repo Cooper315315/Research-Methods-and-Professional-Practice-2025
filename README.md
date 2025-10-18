@@ -60,6 +60,15 @@ Professionally, as a data analyst in Hong Kong, it also motivates me to enhance 
 
 ## **4.	Conclusion**
 
+In this module, both assignments have collectively deepened my understanding of research design and critical analysis. 
+
+In Literature Review, I have learnt to establish a clear framework by defining focus, significance, methodology, and findings. However, I have also learnt that there are areas I need to improve, including to expand academic sources to build strong foundation of the article, clarify data inclusion/exclusion criteria to validate and justify statistical findings, and integrate qualitative insights. 
+
+In Research Proposal Presentation, I have learnt to thoroughly and carefully selecting an appropriate research question, presenting key literature and its significance as well as justification on research methods. 
+Similarly, like the Literature Review, I also realized that I have room for improvement, including enhanced reference diversity, justification on sampling strategies, and explicit analytical techniques to bolster validity and reproducibility. The elements are also crucial in the field of academic research and statistical analysis and findings.
+
+By reflecting the experiences in both assignments, I can conclude that this module has given me a constructive learning experience in both academically and professional. From the academic perspective, the research skills that I have obtain will undoubtedly be useful in the capstone project in my last module and even after I graduated. From the professional perspective, it also opened a new area of technical expertise for me to explore into data related subjects, which I have no doubt and assist me to become a more capable data analyst for the time being.
+
 
 
 
